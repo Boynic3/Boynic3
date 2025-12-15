@@ -8,7 +8,7 @@
   <h3>💻 Sobre Mim</h3>
   
   <p>
-    Sou estudante de <b>Engenharia de Software na UnB</b> apaixonado por tecnologia e música pesada. 🎸<br>
+    Sou estudante de <b>Engenharia de Software na UnB</b> apaixonado por tecnologia, jogos e metal 🎸<br>
   </p>
   
   <p>
