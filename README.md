@@ -22,8 +22,9 @@
 
 <br/>
 🚀 <b>Projetos Recentes:</b><br>
-  <i>Ridesharing (Java)</i> • <i>E-commerce c/ Chatbot (Node.js/Web)</i> • <i>Outros por vir...</i>
-</div>
+<i><a href="https://github.com/Edupizzol/Trabalho_EDA1">CRUD de E-commerce (C)</a></i> • <i><a href="https://github.com/Boynic3/RideSharingProject">Ridesharing (Java)</a></i> • <i><a href="https://github.com/Boynic3/Chatbot-Ecommerce-Nodejs-BigData">E-commerce c/ Chatbot (Node.js/Web)</a></i> • <i>Outros por vir...</i>
+
+<br/><br/>
 
 <br/>
 
