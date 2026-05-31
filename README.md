@@ -1,48 +1,131 @@
+<!-- banner com animação  -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F05033&center=true&vCenter=true&width=450&lines=Ol%C3%A1%2C+eu+sou+Boynic3;melhor%2C+Matheus+Moretti;Eng.+Software+na+UnB;Java%2C+Python+%26+Heavy+Metal+🤘" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,9,302&height=250&section=header&text=Matheus%20Moretti%20Soares&fontSize=45&fontAlignY=35&desc=Engenharia%20de%20Software%20|%20Backend%20Developer&descAlignY=55&descAlign=62&animation=fadeIn"/>
 </div>
 
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Boynic3&color=blue&style=flat-square&label=VISUALIZAÇÕES"/>
+  <img src="https://img.shields.io/github/followers/Boynic3?style=flat-square&color=blue&label=SEGUIDORES"/>
+</p>
+
+---
 
 <div align="center">
-  <h3>💻 Sobre Mim</h3>
+  <h3>👨‍💻 Sobre Mim</h3>
+  <p>
+    Sou estudante do 3º semestre de <strong>Engenharia de Software</strong> da Universidade de Brasília (UnB - FGA).<br>
+    Meu foco é projetar a lógica que faz tudo funcionar por trás das cortinas. Utilizo minha base em engenharia para desenhar a espinha dorsal de sistemas complexos, focado em arquitetura limpa e desenvolvimento backend.
+  </p>
+  <p>
+    🚀 <b>Stack Principal:</b> Ecossistema <strong>Java</strong> e <strong>Python</strong>.<br>
+    🦀 <b>Estudando no momento:</b> Mergulhando no universo de <strong>Rust</strong> para explorar performance e segurança de memória.<br>
+    ⚙️ <b>Entusiasta:</b> Cultura <strong>DevOps</strong>, <strong>QA</strong> conteinerização e automação de processos.
+  </p>
+</div>
+
+---
+
+<h3 align="center">🛠️ Meu Arsenal (Tech Stack)</h3>
+
+<p align="center">
+  <!-- Linguagens & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=java,python,rust,js,nodejs,spring,html,css&theme=dark" />
+</p>
+<p align="center">
+  <!-- Ferramentas & IDEs -->
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,idea,pycharm&theme=dark" />
+</p>
+
+---
+
+<h3 align="center">🚀 Projetos em Destaque</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🚗 Sistema de Ridesharing</h3>
+        <p align="center">
+        <p align="center">
+          <strong>Projeto da Disciplina de POO</strong> 
+          </p>
+          Backend em <strong>Java</strong> focado no gerenciamento de corridas. Desenvolvido com forte aplicação de regras de negócio complexas, arquitetura limpa e conceitos avançados de POO.
+        </p>
+        <p align="center">
+          <a href="https://github.com/Boynic3/RideSharingProject"><img src="https://img.shields.io/badge/Acessar_Repositório-1f2328?style=for-the-badge&logo=github"></a>
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">🏢 Skyscraper</h3>
+        <p align="center">
+          <p align="center">
+          <strong>Projeto Pessoal não finalizado</strong> 
+          </p>
+          Um jogo de terror psicológico <em>(text-based RPG)</em> desenvolvido inteiramente em <strong>Python</strong>. Foco em imersão sonora e um gerenciamento complexo de máquina de estados.
+        </p>
+        <p align="center">
+          <a href="https://github.com/Boynic3/Jogo-Skyscraper"><img src="https://img.shields.io/badge/Acessar_Repositório-1f2328?style=for-the-badge&logo=github"></a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🛒 E-commerce com Chatbot</h3>
+        <p align="center">
+          <strong>Protótipo funcional</strong> de e-commerce integrado a um chatbot de atendimento automatizado, construído com <strong>Node.js</strong> e tecnologias web padrão.
+        </p>
+        <p align="center">
+          <a href="https://github.com/Boynic3/Chatbot-Ecommerce-Nodejs-BigData"><img src="https://img.shields.io/badge/Acessar_Repositório-1f2328?style=for-the-badge&logo=github"></a>
+        </p>
+      </td>
+      <td width="50%" valign="top">
+  <h3 align="center">🚧 Em construção...</h3>
   
-  <p>
-    Sou estudante de <b>Engenharia de Software na UnB</b> apaixonado por tecnologia, jogos e metal 🎸<br>
+  <p align="center">
+    <span style="font-size: 350%;"><strong>...</strong></span>
   </p>
   
-  <p>
-    Meu foco atual é dominar <b>Java</b> e conceitos sólidos de <b>POO</b>.
+  <p align="center">
+    <a href="https://github.com/Boynic3/NOME_DO_REPO">
+      <img src="https://img.shields.io/badge/Acessar_Repositório-1f2328?style=for-the-badge&logo=github">
+    </a>
   </p>
-
-  <p>
-    Gosto de explorar tanto o Backend quanto o Frontend. Já desenvolvi um protótipo de <b>site de vendas com chatbot</b> utilizando <i>Node.js, JavaScript, HTML e CSS</i>, e meu projeto mais recente é um sistema de <b>Ridesharing</b> construído totalmente em Java.
-  </p>
+</td>
+  </table>
 </div>
 
-<br/>
-🚀 <b>Projetos Recentes:</b><br>
-<i><a href="https://github.com/Edupizzol/Trabalho_EDA1">CRUD de E-commerce (C)</a></i> • <i><a href="https://github.com/Boynic3/RideSharingProject">Ridesharing (Java)</a></i> • <i><a href="https://github.com/Boynic3/Chatbot-Ecommerce-Nodejs-BigData">E-commerce c/ Chatbot (Node.js/Web)</a></i> • <i>Outros por vir...</i>
+---
 
-<br/><br/>
+<h3 align="center">📈 Estatísticas</h3>
 
-<br/>
-
+<!-- alinhamento dinâmico -->
 <div align="center">
-  <h3>🛠️ Minha Caixa de Ferramentas</h3>
-
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <div align="center">
-  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-<div align="center">
-    <img src="https://img.shields.io/badge/HEAVY-METAL-7a0000?style=for-the-badge" />
+  <a href="https://github.com/Boynic3">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Boynic3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/Boynic3">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Boynic3&layout=compact&langs_count=7&theme=tokyonight" />
+  </a>
 </div>
 
-<br/>
+---
+<!-- terminar essa parte dps -->
+### 💬 <strong>EXTRA</strong>
+- 🎲 Jogos  |
+- 🎧 Música |
+- 🎬 Filmes e Séries |
+- 💡 Assuntos |
+
+---
+
+<h3 align="center">📫 Links de contato</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheus-moretti-soares-72313039a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" />
+  </a>
+  <a href="mailto:SEU_EMAIL_AQUI">
+    <!-- colocar email dps -->
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square" />
+  </a>
+</p>
