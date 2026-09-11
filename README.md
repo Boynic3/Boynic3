@@ -8,12 +8,12 @@
   <!-- O align="left" aqui é o que faz a mágica acontecer -->
   <img align="left" src="assets/caveira_animada.svg" width="300" height="300" alt="Caveira" />
   
-  <h2>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ­Sobre Mim</h2>
-  <p>ㅤㅤ    Sou estudante de <b>Engenharia de Software na UnB (FGA)</b>, focado em projetar a arquitetura lógica de ㅤㅤsistemas complexos. Minha base em engenharia é usada para desenhar a espinha dorsal do backend, ㅤㅤpriorizando arquitetura limpa e performance.
+  <h2>ㅤㅤㅤㅤㅤ­Sobre Mim</h2>
+  <p>Sou estudante de <b>Engenharia de Software na UnB (FGA)</b>, focado em projetar a arquitetura lógica de sistemas complexos. Minha base em engenharia é usada para desenhar a espinha dorsal do backend, priorizando arquitetura limpa e performance.
   </p>
   <p>
     ㅤㅤ🚀 <b>Ecossistema Principal:</b> Java e Python.<br>
-    ㅤㅤ👨‍💻 <b>Estudando no momento:</b> Algoritmos e Grafos, Desenvolvimento Web e Teoria dos Números paraㅤㅤㅤㅤ Computação.<br>
+    ㅤㅤ👨‍💻 <b>Estudando no momento:</b> Algoritmos e Grafos, Desenvolvimento Web e Teoria dos Números para Computação.<br>
     ㅤㅤ⚙️ <b>Entusiasta:</b> DevOps, QA, conteinerização e automação, Redes Neurais e Inteligência Artificial.
   </p>
 </div>
