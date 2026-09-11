@@ -8,7 +8,7 @@
   <!-- O align="left" aqui é o que faz a mágica acontecer -->
   <img align="left" src="assets/caveira_animada.svg" width="300" height="300" alt="Caveira" />
   
-  <h2>ㅤㅤㅤㅤㅤ­Sobre Mim</h2>
+  <h2>ㅤㅤㅤ­Sobre Mim</h2>
   <p>Sou estudante de <b>Engenharia de Software na UnB (FGA)</b>, focado em projetar a arquitetura lógica de sistemas complexos. Minha base em engenharia é usada para desenhar a espinha dorsal do backend, priorizando arquitetura limpa e performance.
   </p>
   <p>
