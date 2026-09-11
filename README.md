@@ -1,131 +1,74 @@
-<!-- banner com animação  -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,9,302&height=250&section=header&text=Matheus%20Moretti%20Soares&fontSize=45&fontAlignY=35&desc=Engenharia%20de%20Software%20|%20Backend%20Developer&descAlignY=55&descAlign=62&animation=fadeIn"/>
-</div>
-
+<!-- PARTE 1: BANNER BASH PERSONALIZADO DO MATHEUS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Boynic3&color=blue&style=flat-square&label=VISUALIZAÇÕES"/>
-  <img src="https://img.shields.io/github/followers/Boynic3?style=flat-square&color=blue&label=SEGUIDORES"/>
+  <img src="./assets/banner_bash.svg" width="100%" alt="Matheus Bash Profile" />
 </p>
 
----
-
-<div align="center">
-  <h3>👨‍💻 Sobre Mim</h3>
-  <p>
-    Sou estudante do 3º semestre de <strong>Engenharia de Software</strong> da Universidade de Brasília (UnB - FGA).<br>
-    Meu foco é projetar a lógica que faz tudo funcionar por trás das cortinas. Utilizo minha base em engenharia para desenhar a espinha dorsal de sistemas complexos, focado em arquitetura limpa e desenvolvimento backend.
+<!-- PARTE 2: SOBRE MIM (Imagem à esquerda, texto à direita) -->
+<div>
+  <!-- O align="left" aqui é o que faz a mágica acontecer -->
+  <img align="left" src="assets/caveira_animada.svg" width="300" height="300" alt="Caveira" />
+  
+  <h2>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ­Sobre Mim</h2>
+  <p>ㅤㅤ    Sou estudante de <b>Engenharia de Software na UnB (FGA)</b>, focado em projetar a arquitetura lógica de ㅤㅤsistemas complexos. Minha base em engenharia é usada para desenhar a espinha dorsal do backend, ㅤㅤpriorizando arquitetura limpa e performance.
   </p>
   <p>
-    🚀 <b>Stack Principal:</b> Ecossistema <strong>Java</strong> e <strong>Python</strong>.<br>
-    🦀 <b>Estudando no momento:</b> Mergulhando no universo de <strong>Rust</strong> para explorar performance e segurança de memória.<br>
-    ⚙️ <b>Entusiasta:</b> Cultura <strong>DevOps</strong>, <strong>QA</strong> conteinerização e automação de processos.
+    ㅤㅤ🚀 <b>Ecossistema Principal:</b> Java e Python.<br>
+    ㅤㅤ👨‍💻 <b>Estudando no momento:</b> Algoritmos e Grafos, Desenvolvimento Web e Teoria dos Números paraㅤㅤㅤㅤ Computação.<br>
+    ㅤㅤ⚙️ <b>Entusiasta:</b> DevOps, QA, conteinerização e automação, Redes Neurais e Inteligência Artificial.
   </p>
 </div>
 
----
+<!-- IMPORTANTE: Essa tag impede que os elementos de baixo subam e fiquem ao lado da imagem -->
+<br clear="both">
 
-<h3 align="center">🛠️ Meu Arsenal (Tech Stack)</h3>
+<!-- PARTE 3: ARSENAL TÉCNICO (Skillicons integrados ao tema dark) -->
+<h3 align="center">🛠️ Meu Arsenal Técnico</h3>
 
 <p align="center">
-  <!-- Linguagens & Frameworks -->
-  <img src="https://skillicons.dev/icons?i=java,python,rust,js,nodejs,spring,html,css&theme=dark" />
-</p>
-<p align="center">
-  <!-- Ferramentas & IDEs -->
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,idea,pycharm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,rust,javascript,nodejs,docker,git&theme=dark" />
 </p>
 
----
-
-<h3 align="center">🚀 Projetos em Destaque</h3>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">🚗 Sistema de Ridesharing</h3>
-        <p align="center">
-        <p align="center">
-          <strong>Projeto da Disciplina de POO</strong> 
-          </p>
-          Backend em <strong>Java</strong> focado no gerenciamento de corridas. Desenvolvido com forte aplicação de regras de negócio complexas, arquitetura limpa e conceitos avançados de POO.
-        </p>
-        <p align="center">
-          <a href="https://github.com/Boynic3/RideSharingProject"><img src="https://img.shields.io/badge/Acessar_Repositório-1f2328?style=for-the-badge&logo=github"></a>
-        </p>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center">🏢 Skyscraper</h3>
-        <p align="center">
-          <p align="center">
-          <strong>Projeto Pessoal não finalizado</strong> 
-          </p>
-          Um jogo de terror psicológico <em>(text-based RPG)</em> desenvolvido inteiramente em <strong>Python</strong>. Foco em imersão sonora e um gerenciamento complexo de máquina de estados.
-        </p>
-        <p align="center">
-          <a href="https://github.com/Boynic3/Jogo-Skyscraper"><img src="https://img.shields.io/badge/Acessar_Repositório-1f2328?style=for-the-badge&logo=github"></a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">🛒 E-commerce com Chatbot</h3>
-        <p align="center">
-          <strong>Protótipo funcional</strong> de e-commerce integrado a um chatbot de atendimento automatizado, construído com <strong>Node.js</strong> e tecnologias web padrão.
-        </p>
-        <p align="center">
-          <a href="https://github.com/Boynic3/Chatbot-Ecommerce-Nodejs-BigData"><img src="https://img.shields.io/badge/Acessar_Repositório-1f2328?style=for-the-badge&logo=github"></a>
-        </p>
-      </td>
-      <td width="50%" valign="top">
-  <h3 align="center">🚧 Em construção...</h3>
-  
-  <p align="center">
-    <span style="font-size: 350%;"><strong>...</strong></span>
-  </p>
-  
-  <p align="center">
-    <a href="https://github.com/Boynic3/NOME_DO_REPO">
-      <img src="https://img.shields.io/badge/Acessar_Repositório-1f2328?style=for-the-badge&logo=github">
-    </a>
-  </p>
-</td>
-  </table>
-</div>
-
----
+<br>
 
 <h3 align="center">📈 Estatísticas</h3>
 
-<!-- alinhamento dinâmico -->
-<div align="center">
-  <a href="https://github.com/Boynic3">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Boynic3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/Boynic3">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Boynic3&layout=compact&langs_count=7&theme=tokyonight" />
-  </a>
-</div>
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Boynic3&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=170B0C&title_color=CF6A3B&icon_color=A8384A&text_color=F0E4DE" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boynic3&layout=compact&langs_count=7&hide_border=true&bg_color=170B0C&title_color=CF6A3B&text_color=F0E4DE" />
+</p>
 
----
-<!-- terminar essa parte dps -->
-### 💬 <strong>EXTRA</strong>
-- 🎲 Jogos  |
-- 🎧 Música |
-- 🎬 Filmes e Séries |
-- 💡 Assuntos |
+<!-- PARTE 4: PROJETOS EM DESTAQUE -->
+<h3 align="center">🚀 Projetos em Destaque</h3>
 
----
+<!-- PROJETO 1: RIDESHARING -->
+#### 🚗 Sistema de Ridesharing
+*Backend em Java (POO) focado em gerenciamento de corridas, regras de negócio complexas e arquitetura limpa.*
+> `<stack: Java | POO | Clean Architecture>`
+> [**Acessar Repositório**](https://github.com/Boynic3/RideSharingProject)
 
+<!-- PROJETO 2: ALGORITMICA -->
+#### 🧠 Algoritmica
+*Implementações e estudos aprofundados sobre estruturas de dados, algoritmos e teoria dos grafos.*
+> `<stack: Algoritmos | Grafos | Estruturas de Dados>`
+> [**Acessar Repositório**](https://github.com/Boynic3/Algoritmica)
+
+<!-- PROJETO 3: E-COMMERCE -->
+#### 🛒 E-commerce com Chatbot
+*Protótipo funcional integrado a um chatbot de atendimento automatizado, construído com Node.js.*
+> `<stack: Node.js | Big Data | Chatbot>`
+> [**Acessar Repositório**](https://github.com/Boynic3/Chatbot-Ecommerce-Nodejs-BigData)
+
+<br>
+<hr>
+
+<!-- PARTE 5: LINKS DE CONTATO -->
 <h3 align="center">📫 Links de contato</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matheus-moretti-soares-72313039a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:SEU_EMAIL_AQUI">
-    <!-- colocar email dps -->
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
