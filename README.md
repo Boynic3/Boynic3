@@ -33,6 +33,12 @@
 <h3 align="center">📈 Estatísticas</h3>
 <!-- START_STATS -->
 
+    🎯 **Estatísticas do GitHub**
+    * Repositórios: 15
+    * Commits este ano: 342
+    
+    ![Gráfico](assets/graph_dijkstra.svg)
+    
 <!-- END_STATS -->
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Boynic3&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=170B0C&title_color=CF6A3B&icon_color=A8384A&text_color=F0E4DE" />
