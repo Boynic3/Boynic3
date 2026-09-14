@@ -1,0 +1,34 @@
+name: Atualizar Estatísticas do Perfil
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Roda todo dia à meia-noite (UTC)
+  workflow_dispatch: # Permite rodar manualmente no GitHub
+
+permissions:
+  contents: write # Dá permissão para o bot salvar as alterações
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar o Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Rodar o script Python
+        run: python scripts/update_stats.py
+
+      - name: Fazer o commit e push das alterações
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: atualiza estatísticas do README"
+          branch: main
