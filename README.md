@@ -32,13 +32,17 @@
 
 <h3 align="center">📈 Estatísticas</h3>
 <!-- START_STATS -->
+Atualizado diariamente por GitHub Actions.
 
-    🎯 **Estatísticas do GitHub**
-    * Repositórios: 15
-    * Commits este ano: 342
-    
-    ![Gráfico](assets/graph_dijkstra.svg)
-    
+```shell
+$ boynic3 --status
+repositórios ...... 12
+estrelas .......... 3
+
+última atualização  2026-09-16 · auto via GitHub Actions
+```
+
+![Gráfico de Contribuições](assets/graph_dijkstra.svg)
 <!-- END_STATS -->
 
 <!-- PARTE 4: PROJETOS EM DESTAQUE -->
