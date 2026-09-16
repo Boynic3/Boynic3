@@ -33,12 +33,6 @@
 <h3 align="center">📈 Estatísticas</h3>
 <!-- START_STATS -->
 
-    🎯 **Estatísticas do GitHub**
-    * Repositórios: 15
-    * Commits este ano: 342
-    
-    ![Gráfico](assets/graph_dijkstra.svg)
-    
 <!-- END_STATS -->
 
 <!-- PARTE 4: PROJETOS EM DESTAQUE -->
