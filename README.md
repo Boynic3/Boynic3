@@ -32,7 +32,9 @@
 
 <h3 align="center">📈 Estatísticas</h3>
 <!-- START_STATS -->
-
+<p align="center">
+  <img src="assets/terminal_stats.svg" alt="Estatísticas do GitHub" />
+</p>
 <!-- END_STATS -->
 
 <!-- PARTE 4: PROJETOS EM DESTAQUE -->

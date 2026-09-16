@@ -1,0 +1,21 @@
+<svg width="600" height="250" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" rx="8" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+    
+    <!-- Botões da Janela -->
+    <circle cx="20" cy="20" r="6" fill="#FF5F56" />
+    <circle cx="40" cy="20" r="6" fill="#FFBD2E" />
+    <circle cx="60" cy="20" r="6" fill="#27C93F" />
+    
+    <!-- Texto do Terminal -->
+    <g font-family="Courier New, monospace" font-size="14">
+        <text x="20" y="65" fill="#58A6FF" font-weight="bold">$ boynic3 --status</text>
+        
+        <text x="20" y="95" fill="#C9D1D9">repositórios ...... <tspan fill="#79C0FF">16</tspan></text>
+        <text x="20" y="120" fill="#C9D1D9">commits ........... <tspan fill="#79C0FF">173</tspan></text>
+        <text x="20" y="145" fill="#C9D1D9">estrelas .......... <tspan fill="#79C0FF">1</tspan></text>
+        <text x="20" y="170" fill="#C9D1D9">contribuiu em ..... <tspan fill="#79C0FF">6 projetos</tspan></text>
+        <text x="20" y="195" fill="#C9D1D9">linhas de código .. <tspan fill="#79C0FF">~8985</tspan></text>
+        
+        <text x="20" y="235" fill="#8B949E" font-size="12">última atualização  2026-09-16 · auto via GitHub Actions</text>
+    </g>
+</svg>
