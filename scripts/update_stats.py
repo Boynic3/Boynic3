@@ -72,11 +72,11 @@ def gerar_svg(repos, commits, estrelas, contribuicoes, loc):
     <g font-family="Courier New, monospace" font-size="14">
         <text x="20" y="65" fill="#58A6FF" font-weight="bold">$ {USUARIO.lower()} --status</text>
         
-        <text x="20" y="95" fill="#C9D1D9">repositórios ...... <tspan fill="#79C0FF">{repos}</tspan></text>
-        <text x="20" y="120" fill="#C9D1D9">commits ........... <tspan fill="#79C0FF">{commits}</tspan></text>
-        <text x="20" y="145" fill="#C9D1D9">estrelas .......... <tspan fill="#79C0FF">{estrelas}</tspan></text>
-        <text x="20" y="170" fill="#C9D1D9">contribuiu em ..... <tspan fill="#79C0FF">{contribuicoes} projetos</tspan></text>
-        <text x="20" y="195" fill="#C9D1D9">linhas de código .. <tspan fill="#79C0FF">~{loc}</tspan></text>
+        <text x="20" y="95" fill="#C9D1D9">repositórios (total) ...... <tspan fill="#79C0FF">{repos}</tspan></text>
+        <text x="20" y="120" fill="#C9D1D9">estrelas (total) .......... <tspan fill="#79C0FF">{estrelas}</tspan></text>
+        <text x="20" y="145" fill="#C9D1D9">projetos alvo (total) ..... <tspan fill="#79C0FF">{contribuicoes}</tspan></text>
+        <text x="20" y="170" fill="#C9D1D9">commits (último ano) ...... <tspan fill="#79C0FF">{commits}</tspan></text>
+        <text x="20" y="195" fill="#C9D1D9">linhas de código (est.) ... <tspan fill="#79C0FF">~{loc}</tspan></text>
         
         <text x="20" y="235" fill="#8B949E" font-size="12">última atualização  {hoje} · auto via GitHub Actions</text>
     </g>
