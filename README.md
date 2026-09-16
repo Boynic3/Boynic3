@@ -1,9 +1,9 @@
-<!-- PARTE 1: BANNER BASH PERSONALIZADO DO MATHEUS -->
+<!-- PARTE 1: BANNER BASH PERSONALIZADO -->
 <p align="center">
   <img src="./assets/banner_bash.svg" width="100%" alt="Matheus Bash Profile" />
 </p>
 
-<!-- PARTE 2: SOBRE MIM (Imagem à esquerda, texto à direita) -->
+<!-- PARTE 2: SOBRE MIM (Imagem  esquerda, texto à direita) -->
 <div>
   <!-- O align="left" aqui é o que faz a mágica acontecer -->
   <img align="left" src="assets/caveira_animada.svg" width="300" height="300" alt="Caveira" />
