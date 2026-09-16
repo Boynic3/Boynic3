@@ -13,7 +13,7 @@ def gerar_estatisticas(usuario):
         dados = resposta.json()
         repositorios = dados.get("public_repos", 0)
 
-        url_repos = f"[https://api.github.com/users/](https://api.github.com/users/){usuario}/repos?per_page=100"
+        url_repos = f"https://api.github.com/users/{usuario}/repos?per_page=100"
         resposta_repos = requests.get(url_repos)
         estrelas = 0
         if resposta_repos.status_code == 200:
