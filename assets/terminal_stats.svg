@@ -13,9 +13,9 @@
         <text x="20" y="95" fill="#C9D1D9">repositórios (total) ...... <tspan fill="#79C0FF">16</tspan></text>
         <text x="20" y="120" fill="#C9D1D9">estrelas (total) .......... <tspan fill="#79C0FF">1</tspan></text>
         <text x="20" y="145" fill="#C9D1D9">projetos alvo (total) ..... <tspan fill="#79C0FF">6</tspan></text>
-        <text x="20" y="170" fill="#C9D1D9">commits (último ano) ...... <tspan fill="#79C0FF">175</tspan></text>
-        <text x="20" y="195" fill="#C9D1D9">linhas de código (est.) ... <tspan fill="#79C0FF">~9075</tspan></text>
+        <text x="20" y="170" fill="#C9D1D9">commits (último ano) ...... <tspan fill="#79C0FF">179</tspan></text>
+        <text x="20" y="195" fill="#C9D1D9">linhas de código (est.) ... <tspan fill="#79C0FF">~9255</tspan></text>
         
-        <text x="20" y="235" fill="#8B949E" font-size="12">última atualização  2026-09-16 · auto via GitHub Actions</text>
+        <text x="20" y="235" fill="#8B949E" font-size="12">última atualização  2026-09-17 · auto via GitHub Actions</text>
     </g>
 </svg>
